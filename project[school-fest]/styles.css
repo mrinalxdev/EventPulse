@@ -27,5 +27,19 @@ a{
     font-weight: 400;
     font-family: sans-serif;
     color: #fff;
-    font-family: 'Chillax', sans-serif;
+    font-family: 'Supreme', sans-serif;
+}
+
+.nav-items a{
+    margin: 0 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+    font-family: sans-serif;
+    transition: 0.3s all;
+}
+.nav-items a:hover {
+    background-color: #fff;
+    color: #000;
 }
