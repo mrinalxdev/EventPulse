@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+    scroll-behavior: smooth;
+}
+header {
+    background-image: linear-gradient(rgba(0, 0, 2, 0.5), rgba(1, 2, 0, 7)), url(./assets/bavaria-beer-fest-beer-tents-crowd.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+}
+
+.nav {
+    margin: 0 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    font-size: 22px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: #fff;
+    font-family: 'Chillax', sans-serif;
+}
