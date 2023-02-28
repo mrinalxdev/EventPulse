@@ -43,3 +43,28 @@ a{
     background-color: #fff;
     color: #000;
 }
+
+
+/* HERO SECTION  */ 
+.hero {
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 7rem;
+    padding: 40px;
+    border: 1px solid #fff;
+    color: #fff;  
+}
+.hero h1 {
+    font-size: 52px;
+    font-family: 'Satoshi', sans-serif;
+}
+.hero span {
+    background-color: #fff;
+    color: #000;
+    border-radius: 700px 60px;
+}
+.hero p {
+    margin-top: 20px;
+    font-family: sans-serif;
+}
