@@ -64,7 +64,7 @@ a{
 .hero span {
     background-color: #fff;
     color: #000;
-    border-radius: 700px 60px;
+    border-radius: 700px 30px; 
 }
 .hero p {
     margin-top: 20px;
@@ -80,4 +80,17 @@ a{
     background-color: #fff;
     border: none;
     border-radius: 20px;
+    transition: 0.3s all;
+}
+.hero button:hover {
+    background-color: transparent;
+    border: 3px solid #fff;
+    color: #fff;
+}
+
+/* MAIN SECTION  */
+main {
+    background-color: #000 ;
+    color: #fff;
+    min-height: 100vh;
 }
