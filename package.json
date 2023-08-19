@@ -1,0 +1,11 @@
+{
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "description": "This is REST api for any contact managing app with JWT auth and protected routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
