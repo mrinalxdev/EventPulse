@@ -1,8 +1,11 @@
+import TicketForm from '@/components/TicketForm'
 import React from 'react'
 
 const TicketPage = () => {
   return (
-    <div>This is Ticket Page</div>
+    <div>
+      <TicketForm />
+    </div>
   )
 }
 
